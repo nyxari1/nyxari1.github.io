@@ -19,4 +19,4 @@ Feel free to click on each project to explore detailed visuals and descriptions.
 
 ---
 
-> Created by Kitagura | 2025
+> Created by Gabriele "Nyxari" Zoltowski | 2025
