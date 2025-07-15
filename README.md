@@ -15,7 +15,7 @@ Examples include Café Aurora and Lune Papeterie.
 
 ## 🖥️ 3D Modeling
 
-Works focusing on 3D modeling and texturing, with an emphasis on form and realism.
+Works focusing on 3D modeling and texturing.
 
 > [Check out the `3d-modeling/` folder](./3d-modeling)
 
