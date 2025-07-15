@@ -1,10 +1,43 @@
-# **Gabriele Zoltowski - Portfolio**
-Welcome to my personal portfolio! Here, I showcase my graphic design projects and creative experiments. This site acts as both visual résumé and a creative space for my personal journey!
+# Gabriele Zoltowski’s Portfolio 👋
 
-## Overview
-Each project here tells a story through simplicity and intentional design choices. I focus on creating meaningful visuals that together tell a story through minimalist art. Explore my work to see how I blend creativity with storytelling, crafting timeless designs that resonate and inspire.
+Welcome to my multifaceted portfolio! Here you’ll find a curated selection of my work across various creative fields.
 
-## Website
-Check out my website with my creations!
+---
 
-🔗 https://nyxari1.github.io/
+## 🎨 Graphic Design
+
+Branding, visual identity, and original design projects.  
+Examples include Café Aurora and Lune Papeterie.
+
+> [Explore the `graphic-design/` folder](./graphic-design)
+
+---
+
+## 🖥️ 3D Modeling
+
+Works focusing on 3D modeling and texturing, with an emphasis on form and realism.
+
+> [Check out the `3d-modeling/` folder](./3d-modeling)
+
+---
+
+## 🚀 Other Projects
+
+Experiments, prototypes, and other creative works.
+
+> [Explore the `other-projects/` folder](./other-projects)
+
+---
+
+### 📬 Contact
+
+Want to know more or get in touch?  
+[Send me an email](gabe.b.zoltca@gmail.com) or find me on social media:
+
+- [Instagram](https://www.instagram.com/nyxari1_art/)  
+- [LinkedIn](https://www.linkedin.com/in/gabriele-zoltowski/)
+
+---
+
+Thanks for visiting!  
+Explore the repo to discover more about my work and style.
