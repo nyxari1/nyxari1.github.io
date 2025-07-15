@@ -20,13 +20,13 @@ Soft gradients, dusty tones, and a refined font pairing with a spiritual underto
 
 ### 🧾 Business Card  
 
-![Cards](./Card-Front&Back.png)  
+![Cards](./Card.png)  
 
 ---
 
 ### 🕯️ Candle Label Mockup
 
-![Candle](./CandleMockup.png)
+![Candle](./Candle.png)
 
 ---
 
