@@ -1,4 +1,4 @@
-# Gabriele Zoltowski’s Portfolio 👋
+# Gabriele Zoltowski’s Portfolio
 
 Welcome to my multifaceted portfolio! Here you’ll find a curated selection of my work across various creative fields.
 
