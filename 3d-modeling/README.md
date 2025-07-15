@@ -55,6 +55,7 @@ Stylized 3D model of Riven’s sword from the Arcade skin, showcasing vibrant co
 ---
 
 > **Tools used:** Blender
+
 > **Year:** 2024
 
 ---
