@@ -8,13 +8,13 @@ This design explores earthy tones, a handwritten type treatment, and cozy visual
 ### 🎨 Brand Palette & Typography  
 A warm palette paired with a vintage-inspired serif and a script font to add a human touch.
 
-![Palette](./3-VI.png)
+![Palette](./3VI.png)
 
 ---
 
 ### 🔖 Final Logo
 
-![Logo](./Café-Aurora-Logo.png)
+![Logo](./CaféAurora-Logo.png)
 
 ---
 
