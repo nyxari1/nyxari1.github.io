@@ -32,7 +32,7 @@ Experiments, prototypes, and other creative works.
 ### 📬 Contact
 
 Want to know more or get in touch?  
-[Send me an email](gabe.b.zoltca@gmail.com) or find me on social media:
+[Send me an email](mailto:gabe.b.zoltca@gmail.com) or find me on social media:
 
 - [Instagram](https://www.instagram.com/nyxari1_art/)  
 - [LinkedIn](https://www.linkedin.com/in/gabriele-zoltowski/)
