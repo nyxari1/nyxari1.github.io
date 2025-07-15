@@ -20,9 +20,9 @@ A warm palette paired with a vintage-inspired serif and a script font to add a h
 
 ### 🧾 Business Card  
 **Front**  
-![Front](./Card Front-Mockup.png)  
+![Front](./CardFront-Mockup.png)  
 **Back**  
-![Back](./Card Back-Mockup.png)
+![Back](./CardBack-Mockup.png)
 
 ---
 
