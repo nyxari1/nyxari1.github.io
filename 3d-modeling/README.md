@@ -37,7 +37,7 @@ Replica of Shen’s sword from the Thunder Blade skin, emphasizing clean edges a
 ---
 
 ## 🔹 Fizz’s Scepter — Lucifizz Skin (Little Devil Fizz)  
-![Fizz Scepter](./gabriele-zoltowski-little-devil-fizz-mirror.jgp)  
+![Fizz Scepter](./gabriele-zoltowski-little-devil-fizz-mirror.jpg)  
 Model of Fizz’s scepter, capturing the playful yet devilish design from the Little Devil Fizz skin.
 
 ---
