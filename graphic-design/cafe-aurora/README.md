@@ -38,6 +38,7 @@ A warm palette paired with a vintage-inspired serif and a script font to add a h
 
 ---
 
-> **Tools used**: Canva, Photoshop, Krita 
+> **Tools used**: Canva, Photoshop, Krita
+
 > **Created by Gabriele "Nyxari" Zoltowski | 2025**
 
