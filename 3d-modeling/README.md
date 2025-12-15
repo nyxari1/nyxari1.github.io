@@ -4,7 +4,7 @@ This folder contains a curated selection of my 3D modeling projects, focused on 
 
 # Disclaimer / Notice
 
-All 3D models presented here are fan-made recreations inspired by existing in-game skins from *League of Legends*.  
+The following 3D models presented here are fan-made recreations inspired by existing in-game skins from *League of Legends*.  
 These works are strictly for personal portfolio use and educational purposes only.
 
 I do not claim any ownership of the original characters, skins, or intellectual property.  
@@ -58,3 +58,4 @@ Stylized 3D model of Riven’s sword from the Arcade skin, showcasing vibrant co
 
 > Created by Gabriele "Nyxari" Zoltowski | 2024
 ---
+
