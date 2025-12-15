@@ -24,9 +24,8 @@ Works focusing on 3D modeling and texturing.
 ### 📬 Contact
 
 Want to know more or get in touch?  
-[Send me an email](mailto:gabe.b.zoltca@gmail.com) or find me on social media:
+[Send me an email](mailto:gabe.b.zoltca@gmail.com) or find me on LinkedIn:
 
-- [Instagram](https://www.instagram.com/nyxari1_art/)  
 - [LinkedIn](https://www.linkedin.com/in/gabriele-zoltowski/)
 
 ---
