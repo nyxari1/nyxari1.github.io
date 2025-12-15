@@ -21,14 +21,6 @@ Works focusing on 3D modeling and texturing.
 
 ---
 
-## 🚀 Other Projects
-
-Experiments, prototypes, and other creative works.
-
-> [Explore the `other-projects/` folder](./other-projects)
-
----
-
 ### 📬 Contact
 
 Want to know more or get in touch?  
