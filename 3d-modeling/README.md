@@ -59,3 +59,28 @@ Stylized 3D model of Riven’s sword from the Arcade skin, showcasing vibrant co
 > Created by Gabriele "Nyxari" Zoltowski | 2024
 ---
 
+# Disclaimer / Notice
+
+The following 3D Arts are made by me, for a personal project. 
+
+Thank you for understanding.
+
+## 🔹 Living Room — A 3D Model of a Living Room showcased in Unity
+![Living Room](./gabriele-zoltowski-living-room.png)
+
+---
+
+## 🔹 Bathroom — A 3D Model of a Bathroom showcased in Unity
+![Living Room](./gabriele-zoltowski-bathroom.png)
+
+---
+
+## 🔹 Entrance — A 3D Model of a House Entrance showcased in Unity
+![Living Room](./gabriele-zoltowski-entrance.png)
+
+---
+
+> **Tools used:** Blender and Unity 3D
+
+> Created by Gabriele "Nyxari" Zoltowski | 2025
+---
