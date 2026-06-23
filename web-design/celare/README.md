@@ -34,4 +34,5 @@ The interface adapts perfectly to smaller screens, featuring an optimized hambur
 ---
 
 > **Tools & Tech**: Figma, React, Vite, CSS
+
 > **Created by Gabriele "Nyxari" Zoltowski | 2026**
