@@ -7,19 +7,15 @@ Below are the main projects showcasing my work in UI/UX.
 
 ## Projects
 
-### 🐱 DramaCat
+### 🐱 DramaCat(./dramacat)
 A dedicated platform for Asian drama fans to track, review, and discover their next favorite show.
-
-![DramaCat Preview](./dramacat)
 
 🔗 [Live Demo](https://www.dramacat.app)
 
 ---
 
-### 🌿 Celare Web Site
+### 🌿 Celare Web Site(./celare)
 An interactive institutional website developed for Celare, a food distribution company.
-
-![Celare Preview](./celare)
 
 🔗 [Live Demo](https://www.celare.com.br)
 
