@@ -20,6 +20,13 @@ Works focusing on 3D modeling and texturing.
 > [Check out the `3d-modeling/` folder](./3d-modeling)
 
 ---
+## 🖥️ Web Design
+
+UI/UX using Figma and CSS.
+
+> [Check out the `web-design/` folder](./web-design)
+
+---
 
 ### 📬 Contact
 
