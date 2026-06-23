@@ -33,6 +33,6 @@ The interface adapts perfectly to smaller screens, featuring an optimized hambur
 
 ---
 
-> **Tools & Tech**: Figma, React, Vite, CSS
+> **Tools & Tech**: Figma, React, Vite, CSS, WordPress
 
 > **Created by Gabriele "Nyxari" Zoltowski | 2026**
