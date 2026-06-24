@@ -33,4 +33,5 @@ The project combines a minimalist layout with charming feline elements, vibrant 
 ---
 
 > **Tools & Tech**: React, Vite, Figma
+
 > **Created by Gabriele "Nyxari" Zoltowski | 2026**
