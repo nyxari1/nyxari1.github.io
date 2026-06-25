@@ -4,6 +4,42 @@ This folder contains a curated selection of my 3D modeling projects, focused on 
 
 # Disclaimer / Notice
 
+The following 3D Arts are made by me, for a personal project. 
+
+Thank you for understanding.
+
+## 🔹 Living Room — A 3D Model of a Living Room showcased in Unity
+![Living Room](./gabriele-zoltowski-living-room.png)
+
+---
+
+## 🔹 Bathroom — A 3D Model of a Bathroom showcased in Unity
+![Living Room](./gabriele-zoltowski-bathroom.png)
+
+---
+
+## 🔹 Entrance — A 3D Model of a House Entrance showcased in Unity
+![Living Room](./gabriele-zoltowski-entrance.png)
+
+---
+
+> **Tools used:** Blender and Unity 3D
+
+> Created by Gabriele "Nyxari" Zoltowski | 2025
+---
+
+## 🔹 Low Poly Room — A room modelled using Maya
+![Low Poly 3D](./gabriele-zoltowski-room.jpg)
+
+---
+
+> **Tools used:** Autodesk Maya 3D
+
+> Created by Gabriele "Nyxari" Zoltowski | 2026
+---
+
+# Disclaimer / Notice
+
 The following 3D models presented here are fan-made recreations inspired by existing in-game skins from *League of Legends*.  
 These works are strictly for personal portfolio use and educational purposes only.
 
@@ -57,30 +93,4 @@ Stylized 3D model of Riven’s sword from the Arcade skin, showcasing vibrant co
 > **Tools used:** Blender
 
 > Created by Gabriele "Nyxari" Zoltowski | 2024
----
-
-# Disclaimer / Notice
-
-The following 3D Arts are made by me, for a personal project. 
-
-Thank you for understanding.
-
-## 🔹 Living Room — A 3D Model of a Living Room showcased in Unity
-![Living Room](./gabriele-zoltowski-living-room.png)
-
----
-
-## 🔹 Bathroom — A 3D Model of a Bathroom showcased in Unity
-![Living Room](./gabriele-zoltowski-bathroom.png)
-
----
-
-## 🔹 Entrance — A 3D Model of a House Entrance showcased in Unity
-![Living Room](./gabriele-zoltowski-entrance.png)
-
----
-
-> **Tools used:** Blender and Unity 3D
-
-> Created by Gabriele "Nyxari" Zoltowski | 2025
 ---
